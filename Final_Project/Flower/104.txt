@@ -1,0 +1,9 @@
+Flower
+Alstroemeria(10)
+Birds of Paradise(1)
+Calla Lilies(2)
+Carnations(9)
+Chrysanthemums(8)
+Dahlias(0)
+Daisies(12)
+Gerbera Daisies(8)
