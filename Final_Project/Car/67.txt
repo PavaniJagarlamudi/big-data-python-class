@@ -1,0 +1,1 @@
+A driver operates a car by pressing on pedals to make it go and stop and by turning the steering wheel to guide where the car goes. The pedals and steering wheel work because they are part of a larger system.
